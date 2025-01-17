@@ -4,7 +4,7 @@ An exercise in clients connecting to and communicating with a server!
 Stanley To
 --------------------------------------
 
-Note: The code in both Server.java and Client.java is heavily adapted from the provided guide to server sockets provided on the assignment handout.
+Note: The code in both Server.java and Client.java is heavily adapted from a guide to server sockets.
 A link to the tutorial can be accessed here: https://www.baeldung.com/a-guide-to-java-sockets
 
 Server.java
